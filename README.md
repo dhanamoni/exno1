@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output:
+~~
             ![alt text](<Screenshot 2024-08-17 141048.png>)
             ![alt text](<Screenshot 2024-08-17 141108.png>)
             ![alt text](<Screenshot 2024-08-17 141119.png>)
@@ -37,6 +38,7 @@ STEP 6: Use zscore of to remove outliers
             ![alt text](<Screenshot 2024-08-17 141538.png>)
             ![alt text](<Screenshot 2024-08-17 141546.png>)
             ![alt text](<Screenshot 2024-08-17 141551.png>)
+~~
 
 # Result:
           Thus the given program executed successfully.
